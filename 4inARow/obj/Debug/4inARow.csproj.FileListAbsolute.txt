@@ -1,0 +1,7 @@
+C:\Users\jkh9L\source\repos\4inARow\4inARow\bin\Debug\4inARow.exe.config
+C:\Users\jkh9L\source\repos\4inARow\4inARow\bin\Debug\4inARow.exe
+C:\Users\jkh9L\source\repos\4inARow\4inARow\bin\Debug\4inARow.pdb
+C:\Users\jkh9L\source\repos\4inARow\4inARow\obj\Debug\4inARow.csprojResolveAssemblyReference.cache
+C:\Users\jkh9L\source\repos\4inARow\4inARow\obj\Debug\4inARow.csproj.CoreCompileInputs.cache
+C:\Users\jkh9L\source\repos\4inARow\4inARow\obj\Debug\4inARow.exe
+C:\Users\jkh9L\source\repos\4inARow\4inARow\obj\Debug\4inARow.pdb
